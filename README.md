@@ -22,17 +22,17 @@ Our `src` folder contains the following JavaScript files:
 ```txt
 src/
 ├── components/
-    ├── MovieCard.jsx
-    ├── NavBar.jsx
+    ├── MovieCard.js
+    ├── NavBar.js
     ├── NavBar.css
 └── pages/
-    ├── Actors.jsx
-    ├── Directors.jsx
-    ├── Home.jsx
-    ├── Movie.jsx
+    ├── Actors.js
+    ├── Directors.js
+    ├── Home.js
+    ├── Movie.js
 ├── index.css
-├── main.jsx
-├── routes.jsx
+├── index.js
+├── routes.js
 ```
 
 You'll need to fill out these various files to get your app up and running.
@@ -125,4 +125,4 @@ text "Oops! Looks like something went wrong." in an `<h1>`.
 
 ## Resources
 
-- [React Router](https://reactrouter.com/en/main)
+- [React Router](https://v5.reactrouter.com/web/guides/quick-start)
